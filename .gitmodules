@@ -1,0 +1,78 @@
+[submodule "wg/wrk"]
+	path = wg/wrk
+	url = git@github.com:wg/wrk.git
+[submodule "aerospike/act"]
+	path = aerospike/act
+	url = git@github.com:aerospike/act
+[submodule "aerospike/aerospike-client-java"]
+	path = aerospike/aerospike-client-java
+	url = git@github.com:aerospike/aerospike-client-java
+[submodule "aerospike/aerospike-graphite"]
+	path = aerospike/aerospike-graphite
+	url = git@github.com:aerospike/aerospike-graphite
+[submodule "aerospike/aerospike-loader"]
+	path = aerospike/aerospike-loader
+	url = git@github.com:aerospike/aerospike-loader
+[submodule "aerospike/aerospike-server"]
+	path = aerospike/aerospike-server
+	url = git@github.com:aerospike/aerospike-server
+[submodule "benkeen/generatedata"]
+	path = benkeen/generatedata
+	url = git@github.com:benkeen/generatedata
+[submodule "box/Anemometer"]
+	path = box/Anemometer
+	url = git@github.com:box/Anemometer
+[submodule "example42/puppet-modules"]
+	path = example42/puppet-modules
+	url = git@github.com:example42/puppet-modules
+[submodule "example42/puppet-tomcat"]
+	path = example42/puppet-tomcat
+	url = git@github.com:example42/puppet-tomcat
+[submodule "garethr/puppet-module-skeleton"]
+	path = garethr/puppet-module-skeleton
+	url = git@github.com:garethr/puppet-module-skeleton
+[submodule "ggreer/the_silver_searcher"]
+	path = ggreer/the_silver_searcher
+	url = git@github.com:ggreer/the_silver_searcher
+[submodule "brettwooldridge/lettuce"]
+	path = brettwooldridge/lettuce
+	url = git@github.com:brettwooldridge/lettuce
+[submodule "evidens/json2csv"]
+	path = evidens/json2csv
+	url = git@github.com:evidens/json2csv
+[submodule "mongodb/mongo-perf"]
+	path = mongodb/mongo-perf
+	url = git@github.com:mongodb/mongo-perf
+[submodule "TylerBrock/mongo-hacker"]
+	path = TylerBrock/mongo-hacker
+	url = git@github.com:TylerBrock/mongo-hacker
+[submodule "mcafee/mysql-audit"]
+	path = mcafee/mysql-audit
+	url = git@github.com:mcafee/mysql-audit
+[submodule "mzupan/nagios-plugin-mongodb"]
+	path = mzupan/nagios-plugin-mongodb
+	url = git@github.com:mzupan/nagios-plugin-mongodb
+[submodule "percona/percona-toolkit"]
+	path = percona/percona-toolkit
+	url = git@github.com:percona/percona-toolkit
+[submodule "puppetlabs/puppetlabs-apache"]
+	path = puppetlabs/puppetlabs-apache
+	url = git@github.com:puppetlabs/puppetlabs-apache
+[submodule "puppetlabs/puppetlabs-tomcat"]
+	path = puppetlabs/puppetlabs-tomcat
+	url = git@github.com:puppetlabs/puppetlabs-tomcat
+[submodule "RackTables/racktables"]
+	path = RackTables/racktables
+	url = git@github.com:RackTables/racktables
+[submodule "skoneka/screen-session"]
+	path = skoneka/screen-session
+	url = git@github.com:skoneka/screen-session
+[submodule "tweepy/tweepy"]
+	path = tweepy/tweepy
+	url = git@github.com:tweepy/tweepy.git
+[submodule "vladimirvivien/jmx-cli"]
+	path = vladimirvivien/jmx-cli
+	url = git@github.com:vladimirvivien/jmx-cli.git
+[submodule "brianfrankcooper/YCSB"]
+	path = brianfrankcooper/YCSB
+	url = git@github.com:brianfrankcooper/YCSB.git
