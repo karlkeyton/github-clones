@@ -76,3 +76,39 @@
 [submodule "brianfrankcooper/YCSB"]
 	path = brianfrankcooper/YCSB
 	url = git@github.com:brianfrankcooper/YCSB.git
+[submodule "n1trux/awesome-sysadmin"]
+	path = n1trux/awesome-sysadmin
+	url = git@github.com:n1trux/awesome-sysadmin.git
+[submodule "freeboard/freeboard"]
+	path = freeboard/freeboard
+	url = git@github.com:Freeboard/freeboard.git
+[submodule "Kickball/awesome-selfhosted"]
+	path = Kickball/awesome-selfhosted
+	url = git@github.com:Kickball/awesome-selfhosted.git
+[submodule "CachetHQ/Cachet"]
+	path = CachetHQ/Cachet
+	url = git@github.com:CachetHQ/Cachet.git
+[submodule "mmatuson/SchemaSync"]
+	path = mmatuson/SchemaSync
+	url = git@github.com:mmatuson/SchemaSync.git
+[submodule "twitter-archive/kestrel"]
+	path = twitter-archive/kestrel
+	url = git@github.com:twitter-archive/kestrel.git
+[submodule "brettwooldridge/HikariCP"]
+	path = brettwooldridge/HikariCP
+	url = git@github.com:brettwooldridge/HikariCP.git
+[submodule "brettwooldridge/HikariCP-benchmark"]
+	path = brettwooldridge/HikariCP-benchmark
+	url = git@github.com:brettwooldridge/HikariCP-benchmark.git
+[submodule "brettwooldridge/HikariJSON"]
+	path = brettwooldridge/HikariJSON
+	url = git@github.com:brettwooldridge/HikariJSON.git
+[submodule "brettwooldridge/HikariJSON-benchmark"]
+	path = brettwooldridge/HikariJSON-benchmark
+	url = git@github.com:brettwooldridge/HikariJSON-benchmark.git
+[submodule "brettwooldridge/sql-parser"]
+	path = brettwooldridge/sql-parser
+	url = git@github.com:brettwooldridge/sql-parser.git
+[submodule "brettwooldridge/ratpack"]
+	path = brettwooldridge/ratpack
+	url = git@github.com:brettwooldridge/ratpack.git
