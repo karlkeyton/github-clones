@@ -112,3 +112,9 @@
 [submodule "brettwooldridge/ratpack"]
 	path = brettwooldridge/ratpack
 	url = git@github.com:brettwooldridge/ratpack.git
+[submodule "linux/kernel"]
+	path = linux/kernel
+	url = git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git
+[submodule "torvalds/linux"]
+	path = torvalds/linux
+	url = git@github.com:torvalds/linux.git
